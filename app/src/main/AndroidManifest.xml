@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="GoogleAppIndexingWarning">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <uses-feature android:name="android.hardware.location.gps" />
+
+    <application
+        android:name="app.thecity.data.ThisApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="app.thecity.activity.ActivitySplash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="app.thecity.activity.ActivityMain"
+            android:exported="false"
+            android:label="@string/app_name" />
+        <activity
+            android:name="app.thecity.activity.ActivitySetting"
+            android:exported="false"
+            android:label="@string/activity_title_settings"
+            android:theme="@style/AppThemeSetting" />
+        <activity
+            android:name="app.thecity.activity.ActivityMaps"
+            android:exported="false"
+            android:label="@string/activity_title_maps" />
+
+        <activity
+            android:name="app.thecity.activity.ActivityPlaceDetail"
+            android:exported="false" />
+        <activity
+            android:name="app.thecity.activity.ActivityFullScreenImage"
+            android:exported="false" />
+        <activity
+            android:name="app.thecity.activity.ActivitySearch"
+            android:exported="false" />
+        <activity
+            android:name="app.thecity.activity.ActivityNewsInfo"
+            android:exported="false" />
+        <activity
+            android:name="app.thecity.activity.ActivityNewsInfoDetails"
+            android:exported="false" />
+
+        <!-- This meta-data tag is required to use Google Play Services. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <!-- Add Google Map Library -->
+        <uses-library android:name="com.google.android.maps" />
+
+        <!-- Google API Key -->
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="@string/GOOGLE_MAP_API_KEY" />
+
+        <service
+            android:name="app.thecity.fcm.FcmMessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_channel_id"
+            android:value="@string/default_notification_channel_id" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admob_app_id" />
+
+    </application>
+
+</manifest>

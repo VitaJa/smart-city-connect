@@ -1,0 +1,77 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    compileSdk 34
+    namespace 'app.thecity'
+
+    defaultConfig {
+        applicationId "com.app.thecity"
+        minSdk 21
+        targetSdk 34
+        versionCode 733
+        versionName "7.3"
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    buildFeatures {
+        buildConfig = true
+    }
+}
+
+/* IMPORTANT :
+ * Be careful when update dependencies, different version library may caused error */
+dependencies {
+    // library for user interface
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'androidx.recyclerview:recyclerview:1.3.2'
+    implementation 'com.google.android.material:material:1.11.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.balysv:material-ripple:1.0.2'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.browser:browser:1.7.0'
+
+    // library for api
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.6.3'
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.9.2'
+    implementation 'com.google.code.gson:gson:2.10.1'
+
+    // library for loader image
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
+
+    // firebase library
+    implementation platform('com.google.firebase:firebase-bom:32.0.0')
+    implementation 'com.google.firebase:firebase-messaging'
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-config'
+
+
+    // others library
+    implementation 'com.google.android.gms:play-services-maps:18.2.0'
+    implementation 'com.google.android.gms:play-services-location:21.0.1'
+    implementation 'com.google.maps.android:android-maps-utils:2.3.0'
+    implementation 'com.github.chrisbanes:PhotoView:2.3.0'
+
+    // AD NETWORKS OPTIONS :
+    // 3.0.1-all = Uses Admob, Meta Audience Network, IronSource, Google Ad Manager, Unity Ads, Startapp, Applovin, Applovin Max, Wortise
+    // 3.0.1-triple = Uses AdMob, Google Ad Manager, Meta Audience Network and Applovin
+    // 3.0.1-simple = Uses AdMob, Google Ad Manager, Meta Audience Network
+    // 3.0.1-ex-wortise = Uses all of ads exclude Wortise
+    // 3.0.1-custom = Uses AdMob, Meta Audience Network, IronSource
+    // 3.0.1-admob-only = Uses Admob Only
+    // 3.0.1-none = Doesn't use any ads
+    implementation 'com.github.dream-space:dreamspace-ads-sdk:3.0.1-custom'
+}
+
+apply plugin: "com.google.gms.google-services"
+
