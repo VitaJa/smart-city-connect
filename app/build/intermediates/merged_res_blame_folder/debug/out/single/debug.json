@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_favorites_outline.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_favorites_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_weather.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_weather.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_shape_overlay.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\shape_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_money.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_money.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-hdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-hdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\menu_menu_fragment_category.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\menu\\menu_fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-xxxhdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-xxxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_round_shape.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\round_shape.xml"
+    },
+    {
+        "merged": "app.thecity.app-merged_res-53:/drawable_play_svgrepo_com.xml.flat",
+        "source": "app.thecity.app-main-55:/drawable/play_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-mdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-mdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_include_progress.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\include_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_include_ad_banner.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\include_ad_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_city.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_city.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_about.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_public.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_public.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_menu_category.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_menu_category.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_info_distance.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_info_distance.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\menu_menu_activity_details.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\menu\\menu_activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_activity_news_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\activity_news_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_shape_gradient.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\shape_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_fragment_category.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_activity_place_details.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\activity_place_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "app.thecity.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "app.thecity.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\font_monteserrat.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\font\\monteserrat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-xhdpi_ic_clear.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-xhdpi\\ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\xml_setting_notification.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\xml\\setting_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_drawer_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\drawer_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_item_image.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_youtube_icon.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\youtube_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_setting.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_include_place_details_content.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\include_place_details_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_menu_counter.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\menu_counter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\font_montserrat_alternates.ttf.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\font\\montserrat_alternates.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_item_place.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\item_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_include_no_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\include_no_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_notification.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_transport.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_transport.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_tour.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_tour.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_include_news_info_details_content.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\include_news_info_details_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_favorites.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-xhdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-xhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_item_suggestion.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\item_suggestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_item_place_slider.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\item_place_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_marker.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_dialog_color_theme.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\dialog_color_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-xxxhdpi_ic_clear.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-xxxhdpi\\ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_history.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_sport.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_sport.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_fav.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_fav.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-mdpi_ic_clear.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-mdpi\\ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_info_phone.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_info_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_ent.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_ent.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_info_address.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_info_address.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_shop.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_hotels.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_hotels.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_item_news_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\item_news_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\menu_menu_activiy_news_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\menu\\menu_activiy_news_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_loading_placeholder.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\loading_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_maps_marker.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\maps_marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-xxhdpi_ic_refresh.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-xxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout-w720dp_include_place_details_content.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout-w720dp\\include_place_details_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_item_fullscreen_image.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\item_fullscreen_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_food.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_food.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_map.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\menu_menu_activity_maps.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\menu\\menu_activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_news.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_news.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_activity_news_info_details.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\activity_news_info_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_round_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_item_loading.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\item_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-hdpi_ic_clear.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-hdpi\\ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\menu_menu_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\menu\\menu_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_date.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_activity_full_screen_image.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\activity_full_screen_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_info_web.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_info_web.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_religion.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_religion.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_info_loc.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_info_loc.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_shape_gradient_soft.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\shape_gradient_soft.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\mipmap_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\mipmap\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_splash_icon_.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\splash_icon_.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_featured.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_featured.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_city_connect_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\city_connect_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_info_desc.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_info_desc.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\menu_menu_drawer.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_nav_all.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_nav_all.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\anim_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_no_item.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_no_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable-xxhdpi_ic_clear.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable-xxhdpi\\ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-merged_res-53:\\drawable_ic_menu_share.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\app.thecity.app-main-55:\\drawable\\ic_menu_share.png"
+    }
+]
