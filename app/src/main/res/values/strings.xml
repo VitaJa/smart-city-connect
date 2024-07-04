@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">City Connect</string>
+    <string name="app_name">Smart City Connect</string>
 
     <string name="city_name">Kampala</string>
     <string name="city_address">Central, Uganda</string>
-    <string name="about_text">City Connect, an app to display interesting spots of cities in Uganda</string>
+    <string name="about_text">Smart City Connect, an app to display interesting spots of cities in Uganda</string>
 
 
     <!--=== Nav Drawer Menu Items ============================================================== -->
